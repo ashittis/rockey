@@ -108,7 +108,7 @@ roki/
 ![keyframe](https://github.com/ashittis/rockey/blob/main/scene_1.jpg)
 ![Indexing](https://github.com/ashittis/rockey/blob/main/scene_1_mask.png)
 ![Chat](https://github.com/ashittis/rockey/blob/main/scene_1_removed.jpg)
-![bgremove](https://github.com/ashittis/rockey/blob/main/Screenshot%202025-07-11%20182403.png)
+![bgremove](https://github.com/ashittis/rockey/blob/main/scene_1_composite.jpg)
 
 ## 💾 Model Checkpoints
 
