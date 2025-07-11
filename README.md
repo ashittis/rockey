@@ -102,8 +102,14 @@ roki/
 │   ├── full_video_mask.py
 │   └── make_video_from_masks.py
 ```
+## 📸 Screenshots
 
----
+![mask](https://github.com/ashittis/repot/blob/main/Screenshot%202025-07-11%20191820.png)
+![bgremove](https://github.com/ashittis/repot/blob/main/Screenshot%202025-07-11%20192107.png)
+![keyframe](https://github.com/ashittis/repot/blob/main/Screenshot%202025-07-11%20191820.png)
+![genai](https://github.com/ashittis/repot/blob/main/Screenshot%202025-07-11%20192107.png)
+![Indexing](https://github.com/ashittis/repot/blob/main/Screenshot%202025-07-11%20191820.png)
+![Chat](https://github.com/ashittis/repot/blob/main/Screenshot%202025-07-11%20192107.png)
 
 ## 💾 Model Checkpoints
 
