@@ -105,7 +105,7 @@ roki/
 ## 📸 Screenshots
 
 ![mask](https://github.com/ashittis/rockey/blob/main/Screenshot%202025-07-11%20181445.png)
-![keyframe](https://github.com/ashittis/repot/blob/main/Screenshot%202025-07-11%20191820.png)
+![keyframe](https://github.com/ashittis/rockey/blob/main/scene_1.jpg)
 ![Indexing](https://github.com/ashittis/rockey/blob/main/scene_1_mask.png)
 ![Chat](https://github.com/ashittis/rockey/blob/main/scene_1_removed.jpg)
 ![bgremove](https://github.com/ashittis/rockey/blob/main/Screenshot%202025-07-11%20182403.png)
