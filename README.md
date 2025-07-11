@@ -104,8 +104,8 @@ roki/
 ```
 ## 📸 Screenshots
 
-![mask](https://github.com/ashittis/repot/blob/main/Screenshot%202025-07-11%20191820.png)
-![bgremove](https://github.com/ashittis/repot/blob/main/Screenshot%202025-07-11%20192107.png)
+![mask](https://github.com/ashittis/rockey/blob/main/Screenshot%202025-07-11%20181445.png)
+![bgremove](https://github.com/ashittis/rockey/blob/main/Screenshot%202025-07-11%20182403.png)
 ![keyframe](https://github.com/ashittis/repot/blob/main/Screenshot%202025-07-11%20191820.png)
 ![genai](https://github.com/ashittis/repot/blob/main/Screenshot%202025-07-11%20192107.png)
 ![Indexing](https://github.com/ashittis/repot/blob/main/Screenshot%202025-07-11%20191820.png)
